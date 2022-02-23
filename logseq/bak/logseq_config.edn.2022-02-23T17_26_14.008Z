@@ -165,7 +165,11 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :zotero/settings-v2 {"default" {:type :group, :type-id "4605909", :zotero-data-directory ""}}
+<<<<<<< HEAD
+ :zotero/settings-v2 {"default" {:type :group, :type-id "4605909", :zotero-linked-attachment-base-directory "", :extra-tags "", :zotero-data-directory "C:\\Users\\admin\\Zotero"}}
+=======
+ :zotero/settings-v2 {"default" {:zotero-data-directory "C:\\Users\\admin\\Zotero", :overwrite-mode? true, :zotero-linked-attachment-base-directory "", :type-id "4605909", :type :group}}
+>>>>>>> 10cd9ac6515c0b3d665dd77ffd34807f718ef04c
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
