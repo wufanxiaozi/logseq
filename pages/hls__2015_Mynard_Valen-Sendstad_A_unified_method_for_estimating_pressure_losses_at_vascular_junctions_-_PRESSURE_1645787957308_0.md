@@ -31,7 +31,12 @@
   hl-page:: 2
   ls-type:: annotation
   id:: 6218eb57-2568-4b10-841e-34d924c7e451
-- that are specific to particular junctiongeometries (e.g. T-junction) and flow regimes [22, 23].特定几何结构
+- that are specific to particular junctiongeometries (e.g. T-junction) and flow regimes [22, 23].特定几何结构如T型可以计算损失
   hl-page:: 2
   ls-type:: annotation
   id:: 6218eb92-22d7-4ea5-a86a-b5480dca367d
+- the relevance of the branch formulation was highlighted by Sanet al.[24]认为分岔处的损失不可忽略
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218ebdc-1560-4d26-96a1-70db5e22437f
+-
