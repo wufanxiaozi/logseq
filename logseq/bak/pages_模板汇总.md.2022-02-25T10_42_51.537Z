@@ -4,7 +4,14 @@
   **文章笔记：**
   
   template:: 文献信息模板
--
+- <style>
+  - #p2::selection {
+  - background: yellow;
+  - }
+  - #p3::selection {
+  - background: blue;
+  - }
+  - </style>
 - <p style="
   font-family:微软雅黑;
   color:blue;
