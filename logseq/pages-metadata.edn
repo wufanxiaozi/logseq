@@ -2,14 +2,18 @@
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "@a distributed lumped parameter model of blood flow",
-  :block/created-at 1645637070934,
-  :block/updated-at 1645637070934}
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
+ {:block/name
+  "@a unified method for estimating pressure losses at vascular junctions_ pressure losses at vascular junctions",
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "@hemodynamics",
-  :block/created-at 1645637070935,
-  :block/updated-at 1645637070935}
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "@optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645637070934,
-  :block/updated-at 1645637070934}
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "a",
   :block/created-at 1645632540715,
   :block/updated-at 1645632540715}
@@ -49,16 +53,29 @@
  {:block/name "feb 24th, 2022",
   :block/created-at 1645660800000,
   :block/updated-at 1645686746744}
+ {:block/name "feb 25th, 2022",
+  :block/created-at 1645778190994,
+  :block/updated-at 1645778295112}
+ {:block/name
+  "hls__2005_liu_optimum bifurcating-tube tree for gas transport",
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name
   "hls__2020_mirramezani_shadden_a distributed lumped parameter model of blood flow",
-  :block/created-at 1645706998678,
-  :block/updated-at 1645706998678}
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "in-progress",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "jonathan p. mynard",
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "journalarticle",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
+ {:block/name "kristian valen-sendstad",
+  :block/created-at 1645780205844,
+  :block/updated-at 1645780205844}
  {:block/name "later",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
