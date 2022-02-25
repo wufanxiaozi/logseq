@@ -6,5 +6,8 @@
   hl-page:: 1
   ls-type:: annotation
   id:: 6218e734-2302-41f7-865b-03ccb4dbe814
--
+- In pulsatile multi-directional flows, switch-ing between empirical equations upon reversing flow may introduce unrealistic discontinuities in simulatedhaemodynamic waveforms.
+  hl-page:: 1
+  ls-type:: annotation
+  id:: 6218e7a4-6c30-4623-8cab-b88de23433ca
 -
