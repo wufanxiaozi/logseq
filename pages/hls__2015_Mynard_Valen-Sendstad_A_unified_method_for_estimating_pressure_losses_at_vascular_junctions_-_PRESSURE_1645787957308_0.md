@@ -27,7 +27,11 @@
   hl-page:: 2
   ls-type:: annotation
   id:: 6218eb2d-cc39-4ebb-b5f7-5895ba3693a0
-- Others have chosen continuity of static pressure[2, 9, 19] which assumes that any excess dynamic pressure in one branch compared with another isdissipated completely.
-  ls-type:: annotation
+- Others have chosen continuity of static pressure[2, 9, 19] which assumes that any excess dynamic pressure in one branch compared with another isdissipated completely.静压连续
   hl-page:: 2
+  ls-type:: annotation
   id:: 6218eb57-2568-4b10-841e-34d924c7e451
+- that are specific to particular junctiongeometries (e.g. T-junction) and flow regimes [22, 23].特定几何结构
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218eb92-22d7-4ea5-a86a-b5480dca367d
