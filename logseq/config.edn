@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :zotero/settings-v2 {"default" {:type :group, :type-id "4605909", :zotero-data-directory "C:\\Users\\admin\\Zotero", :overwrite-mode? true, :page-insert-prefix "@", :zotero-linked-attachment-base-directory "G:\\GitHub\\logseq\\assets", :include-attachments? true}}
+ :zotero/settings-v2 {"default" {:type :group, :type-id "4605909", :zotero-data-directory "C:\\Users\\admin\\Zotero", :overwrite-mode? true, :page-insert-prefix "@", :zotero-linked-attachment-base-directory "G:\\GitHub\\logseq\\assets", :include-attachments? false, :notes-block-text "[[Notes]]"}}
  :favorites ["文献阅读汇总" "模板汇总"]
  :ui/show-brackets? false
  :publishing/all-pages-public? false
