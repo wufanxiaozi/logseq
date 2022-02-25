@@ -1,50 +1,50 @@
 [{:block/name
   "../assets/2005_liu_optimum_bifurcating-tube_tree_for_gas_transport_1645798500934_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645785385460_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645787957308_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "../assets/2016_secomb_hemodynamics_1645787991252_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "../assets/2020_belliato_et_al_an_experimental_model_of_veno-venous_arterial_extracorporeal_membrane_1645801276545_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "../assets/2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645785494018_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "../assets/2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645787914794_0.pdf",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "2005",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "@a distributed lumped parameter model of blood flow",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "@a unified method for estimating pressure losses at vascular junctions_ pressure losses at vascular junctions",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "@an experimental model of veno-venous arterial extracorporeal membrane oxygenation",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "@hemodynamics",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "@optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "a",
   :block/created-at 1645632540715,
   :block/updated-at 1645632540715}
@@ -52,11 +52,11 @@
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "alessandro aina",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "antonella degani",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "attachments",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
@@ -69,15 +69,9 @@
  {:block/name "c",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
- {:block/name "card",
-  :block/created-at 1645632540716,
-  :block/updated-at 1645632540716}
  {:block/name "carlo pellegrini",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
- {:block/name "contents",
-  :block/created-at 1645632540716,
-  :block/updated-at 1645632540716}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "doing",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
@@ -97,63 +91,59 @@
   :block/created-at 1645778190994,
   :block/updated-at 1645778295112}
  {:block/name "giorgio antonio iotti",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2005_liu_optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2005_liu_optimum_bifurcating-tube_tree_for_gas_transport_1645798500934_0",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2015_mynard_valen-sendstad_a unified method for estimating pressure losses at vascular junctions - pressure",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645787957308_0",
   :block/created-at 1645801482297,
   :block/updated-at 1645801820552}
  {:block/name "hls__2016_secomb_hemodynamics_1645787571244_0",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2020_belliato_et_al_an_experimental_model_of_veno-venous_arterial_extracorporeal_membrane_1645801276545_0",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
- {:block/name
-  "hls__2020_mirramezani_shadden_a distributed lumped parameter model of blood flow",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name
   "hls__2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645787914794_0",
   :block/created-at 1645800812939,
-  :block/updated-at 1645800814550}
+  :block/updated-at 1645802018143}
  {:block/name "in-progress",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
  {:block/name "jonathan p. mynard",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "journalarticle",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "kristian valen-sendstad",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "lars m broman",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "later",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
  {:block/name "lisa prahl wittberg",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "luca caneva",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "mar 15th, 2016",
   :block/created-at 1458000000000,
   :block/updated-at 1458000000000}
@@ -161,8 +151,8 @@
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "mirko belliato",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "now",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
@@ -170,8 +160,8 @@
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "silvia mongodi",
-  :block/created-at 1645801845616,
-  :block/updated-at 1645801845616}
+  :block/created-at 1645802054466,
+  :block/updated-at 1645802054466}
  {:block/name "tianshu liu",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
@@ -192,7 +182,7 @@
   :block/updated-at 1645637070934}
  {:block/name "文献阅读汇总",
   :block/created-at 1645783155284,
-  :block/updated-at 1645801382558}
+  :block/updated-at 1645801898243}
  {:block/name "模板汇总",
   :block/created-at 1645780280555, 
   :block/updated-at 1645785765708}]
