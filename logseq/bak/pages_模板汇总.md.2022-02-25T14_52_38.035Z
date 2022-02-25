@@ -1,0 +1,17 @@
+- ### **题目及基本信息：**   #card
+  **文章附件：**
+  
+  **文章笔记：**
+  
+  template:: 文献信息模板
+-
+- <p style="
+  font-family:微软雅黑;
+  color:blue;
+  font-weight:bold;
+  font-size:20px;
+  background:#CCDDFF";
+  >文字内容</p>
+  template:: 文字CSS模板
+- ![image.png](../assets/image_1645783063454_0.png)
+-
