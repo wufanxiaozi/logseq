@@ -1,27 +1,27 @@
 [{:block/name
-  "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645785164512_0.pdf",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
- {:block/name
   "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645785385460_0.pdf",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
+ {:block/name
+  "../assets/2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645785494018_0.pdf",
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "2005",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "@a distributed lumped parameter model of blood flow",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name
   "@a unified method for estimating pressure losses at vascular junctions_ pressure losses at vascular junctions",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "@hemodynamics",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "@optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "a",
   :block/created-at 1645632540715,
   :block/updated-at 1645632540715}
@@ -66,32 +66,31 @@
   :block/updated-at 1645778295112}
  {:block/name
   "hls__2005_liu_optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name
   "hls__2015_mynard_valen-sendstad_a unified method for estimating pressure losses at vascular junctions - pressure",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
- {:block/name
-  "hls__2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645785164512_0",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
+ {:block/name "hls__2016_secomb_hemodynamics",
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name
   "hls__2020_mirramezani_shadden_a distributed lumped parameter model of blood flow",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "in-progress",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
  {:block/name "jonathan p. mynard",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "journalarticle",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "kristian valen-sendstad",
-  :block/created-at 1645785420976,
-  :block/updated-at 1645785420976}
+  :block/created-at 1645786231381,
+  :block/updated-at 1645786231381}
  {:block/name "later",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
@@ -127,7 +126,7 @@
   :block/updated-at 1645637070934}
  {:block/name "文献阅读汇总",
   :block/created-at 1645783155284,
-  :block/updated-at 1645785248208}
+  :block/updated-at 1645785854768}
  {:block/name "模板汇总",
   :block/created-at 1645780280555, 
-  :block/updated-at 1645784996993}]
+  :block/updated-at 1645785765708}]
