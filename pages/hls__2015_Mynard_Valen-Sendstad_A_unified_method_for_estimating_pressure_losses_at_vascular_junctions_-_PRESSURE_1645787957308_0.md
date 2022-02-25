@@ -19,3 +19,7 @@
   ls-type:: annotation
   id:: 6218e877-0475-4ef2-b1d5-e75453f9edb0
 -
+- ^^sectionally-averaged pressure ^^ andflow/velocity are calculated in individual segments via the 0D or 1D governing equations, whilethe communication between segments is handled at branch junctions with two interface condi-tions.
+  hl-page:: 1
+  ls-type:: annotation
+  id:: 6218e8e9-9be8-475e-8bfa-c74b2ed6ef7f
