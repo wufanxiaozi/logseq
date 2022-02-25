@@ -14,7 +14,8 @@
   ls-type:: annotation
   hl-page:: 1
   id:: 6218e7ea-fc43-4a52-a258-1097833c5f85
-- lar models have beenapplied to study flow in airways [12–14]. In 
-  ls-type:: annotation
+- similar models have been applied to study flow in airways [12–14].
   hl-page:: 1
-  id:: 6218e86a-6185-4a6b-be1f-e3337346eebc
+  ls-type:: annotation
+  id:: 6218e877-0475-4ef2-b1d5-e75453f9edb0
+-
