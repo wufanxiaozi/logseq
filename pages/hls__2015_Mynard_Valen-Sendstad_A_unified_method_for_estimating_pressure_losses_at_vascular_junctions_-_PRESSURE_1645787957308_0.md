@@ -48,3 +48,7 @@
   ls-type:: annotation
   id:: 6218f04d-aed4-4d7c-ab3e-c1f36e7d7296
 -
+- The code for this unified reduced-order (Unified0D) method is being madepublicly available and can therefore be easily incorporated into existing 1D codes. The methodleads to smooth solutions in the presence of flow reversals.本文工作的贡献
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218f155-dbdc-4744-a9c0-5f751086b3cf
