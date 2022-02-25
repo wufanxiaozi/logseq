@@ -39,7 +39,6 @@
   hl-page:: 2
   ls-type:: annotation
   id:: 6218ebdc-1560-4d26-96a1-70db5e22437f
--
 - losses at individual junctions may also be important [20, 25]分岔可能也很重要的证据
   hl-page:: 2
   ls-type:: annotation
