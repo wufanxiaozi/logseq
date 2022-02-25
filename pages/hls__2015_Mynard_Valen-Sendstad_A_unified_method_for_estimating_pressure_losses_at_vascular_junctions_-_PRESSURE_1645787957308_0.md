@@ -14,10 +14,6 @@
   hl-page:: 1
   ls-type:: annotation
   id:: 6218e7ea-fc43-4a52-a258-1097833c5f85
-- similar models have been applied to study flow in airways [12–14].
-  hl-page:: 1
-  ls-type:: annotation
-  id:: 6218e877-0475-4ef2-b1d5-e75453f9edb0
 -
 - ==sectionally-averaged pressure== andflow/velocity are calculated in individual segments via the 0D or 1D governing equations, whilethe communication between segments is handled at branch junctions with two interface condi-tions.
   hl-page:: 1
