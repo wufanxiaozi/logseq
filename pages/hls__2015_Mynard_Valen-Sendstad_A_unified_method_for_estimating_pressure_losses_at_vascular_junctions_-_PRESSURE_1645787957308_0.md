@@ -10,7 +10,6 @@
   hl-page:: 1
   ls-type:: annotation
   id:: 6218e7a4-6c30-4623-8cab-b88de23433ca
--
 - ontinuities in simu-lated waveforms were avoided by extending Bassettet al.’s control volume-based method to incorporate a‘pseudodatum’ supplier branch, an imaginary effective vessel containing all inflow to the junction. Energyexchange between diverging flow streams was also accounted for empirically. Th
   ls-type:: annotation
   hl-page:: 1
