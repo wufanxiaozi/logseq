@@ -19,16 +19,15 @@
   hl-page:: 1
   ls-type:: annotation
   id:: 6218ea17-7633-4e95-bdda-bf4e0c501a20
--
--
 - depend on factors such as flow distribution, branch area ratios, branch angles and specificjunction geometry.取决于流量分布、分支面积比、分支角度和比结几何形状等因素。
   hl-page:: 2
   ls-type:: annotation
   id:: 6218eac7-d1f0-48e3-b21f-44f77184d17c
--
-- any investigators [1, 3, 15–18] have assumed the losses to be negligible损失可以忽略
+- any investigators [1, 3, 15–18] have assumed the losses to be negligible损失可以忽略，动压连续
   hl-page:: 2
   ls-type:: annotation
   id:: 6218eb2d-cc39-4ebb-b5f7-5895ba3693a0
--
--
+- Others have chosen continuity of static pressure[2, 9, 19] which assumes that any excess dynamic pressure in one branch compared with another isdissipated completely.
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 6218eb57-2568-4b10-841e-34d924c7e451
