@@ -26,3 +26,9 @@
   ls-type:: annotation
   id:: 6218eac7-d1f0-48e3-b21f-44f77184d17c
 -
+- any investigators [1, 3, 15–18] have assumed the losses to be negligible损失可以忽略
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218eb2d-cc39-4ebb-b5f7-5895ba3693a0
+-
+-
