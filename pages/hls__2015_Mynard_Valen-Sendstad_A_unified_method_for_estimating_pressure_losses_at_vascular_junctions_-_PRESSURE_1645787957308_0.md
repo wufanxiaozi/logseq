@@ -21,3 +21,8 @@
   id:: 6218ea17-7633-4e95-bdda-bf4e0c501a20
 -
 -
+- depend on factors such as flow distribution, branch area ratios, branch angles and specificjunction geometry.取决于流量分布、分支面积比、分支角度和比结几何形状等因素。
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218eac7-d1f0-48e3-b21f-44f77184d17c
+-
