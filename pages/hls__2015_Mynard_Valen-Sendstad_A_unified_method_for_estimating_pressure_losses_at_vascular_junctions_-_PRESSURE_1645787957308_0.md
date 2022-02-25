@@ -43,4 +43,8 @@
   hl-page:: 2
   ls-type:: annotation
   id:: 6218ec48-571e-477c-ab05-6c40143b7f22
+- Various empirical equationsexist for estimating junction loss coefficients in reduced-order models, but these can only be appliedto specific junction configurations and flow conditions. In addition, we have found that switchingbetween such equations when flow conditions change dynamically can lead to non-physiologicaldiscontinuities in the simulated pressure/flow waveforms.以往这些经验模型的缺点
+  hl-page:: 2
+  ls-type:: annotation
+  id:: 6218f04d-aed4-4d7c-ab3e-c1f36e7d7296
 -
