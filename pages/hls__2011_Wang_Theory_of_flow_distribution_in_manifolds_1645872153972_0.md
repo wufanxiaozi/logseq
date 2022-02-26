@@ -9,3 +9,7 @@ title:: hls__2011_Wang_Theory_of_flow_distribution_in_manifolds_1645872153972_0
   ls-type:: annotation
   hl-page:: 2
   id:: 621a07d5-c335-4345-97b1-13414809439d
+- Wang[27,28]didthe first attempt to unify main theoretical models into one theoret-ical framework.
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 621a0817-8bc4-4d73-a4d6-64e97350cf3c
