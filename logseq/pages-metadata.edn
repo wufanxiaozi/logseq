@@ -1,80 +1,161 @@
 [{:block/name
+  "../assets/1959_acrivos_et_al_flow_distributions_in_manifolds_1645873923067_0.pdf",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "../assets/1993_wood_et_al_modeling_pipe_networks_dominated_by_junctions_1645877614357_0.pdf",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
   "../assets/2005_liu_optimum_bifurcating-tube_tree_for_gas_transport_1645798500934_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "../assets/2011_wang_theory_of_flow_distribution_in_manifolds_1645872153972_0.pdf",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "../assets/2012_san_staples_an_improved_model_for_reduced-order_physiological_fluid_flows_1645872387004_0.pdf",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name
+  "../assets/2012_yekani_motlagh_et_al_numerical_investigation_of_the_effects_of_combining_sewer_junction_1645878182911_0.pdf",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645785385460_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "../assets/2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645787957308_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "../assets/2016_secomb_hemodynamics_1645787991252_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "../assets/2020_belliato_et_al_an_experimental_model_of_veno-venous_arterial_extracorporeal_membrane_1645801276545_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "../assets/2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645785494018_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "../assets/2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645787914794_0.pdf",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "2005",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "@a distributed lumped parameter model of blood flow",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "@a unified method for estimating pressure losses at vascular junctions_ pressure losses at vascular junctions",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "@an experimental model of veno-venous arterial extracorporeal membrane oxygenation",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "@an improved model for reduced-order physiological fluid flows",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name
+  "@blood flow simulations in patient-specific geometries of the carotid artery_ a systematic review",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "@flow distributions in manifolds",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "@fluid flow in t-junction of pipes",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name "@hemodynamics",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "@modeling pipe networks dominated by junctions",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "@numerical analysis of coronary artery bypass grafts_ an over view",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "@numerical investigation of the effects of combining sewer junction characteristics on the hydraulic parameters of flow in fully surcharged condition_ effects of combining sewer junction characteristics on parameters of flow",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name "@optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "@theory of flow distribution in manifolds",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "a",
   :block/created-at 1645632540715,
   :block/updated-at 1645632540715}
+ {:block/name "a. acrivos",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "abstract",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
+ {:block/name "akram abbaspour",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "alessandro aina",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "ali a. sadraddini",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "amal ahmed owida",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "amir h. nazemi",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "anne e. staples",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "antonella degani",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "attachments",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "b",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "b.d. babcock",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "booksection",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "c",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "card",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "carlo pellegrini",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "contents",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "d. lopes",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "doing",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "don j. wood",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "done",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
@@ -90,60 +171,104 @@
  {:block/name "feb 25th, 2022",
   :block/created-at 1645778190994,
   :block/updated-at 1645778295112}
+ {:block/name "feb 26th, 2022",
+  :block/created-at 1645833600000,
+  :block/updated-at 1645833600000}
+ {:block/name "feb 27th, 2022",
+  :block/created-at 1645920000000,
+  :block/updated-at 1645920000000}
  {:block/name "giorgio antonio iotti",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "h. puga",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "hls__1959_acrivos_et_al_flow_distributions_in_manifolds_1645873923067_0",
+  :block/created-at 1645877331692,
+  :block/updated-at 1645877337011}
+ {:block/name
+  "hls__1993_wood_et_al_modeling_pipe_networks_dominated_by_junctions_1645877614357_0",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "hls__2005_liu_optimum bifurcating-tube tree for gas transport",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "hls__2005_liu_optimum_bifurcating-tube_tree_for_gas_transport_1645798500934_0",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name
+  "hls__2011_wang_theory_of_flow_distribution_in_manifolds_1645872153972_0",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "hls__2012_san_staples_an_improved_model_for_reduced-order_physiological_fluid_flows_1645872387004_0",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name
+  "hls__2012_yekani_motlagh_et_al_numerical_investigation_of_the_effects_of_combining_sewer_junction_1645878182911_0",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "hls__2015_mynard_valen-sendstad_a unified method for estimating pressure losses at vascular junctions - pressure",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "hls__2015_mynard_valen-sendstad_a_unified_method_for_estimating_pressure_losses_at_vascular_junctions_-_pressure_1645787957308_0",
   :block/created-at 1645801482297,
   :block/updated-at 1645801820552}
  {:block/name "hls__2016_secomb_hemodynamics_1645787571244_0",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name
   "hls__2020_belliato_et_al_an_experimental_model_of_veno-venous_arterial_extracorporeal_membrane_1645801276545_0",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name
   "hls__2020_mirramezani_shadden_a_distributed_lumped_parameter_model_of_blood_flow_1645787914794_0",
   :block/created-at 1645800812939,
   :block/updated-at 1645802018143}
+ {:block/name "hung do",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name "in-progress",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "j. e. funk",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "j. teixeira",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "jonathan p. mynard",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "journalarticle",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
+ {:block/name "junye wang",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "kristian valen-sendstad",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "l. srinivasa reddy",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "lars m broman",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name "later",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
  {:block/name "lisa prahl wittberg",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "luca caneva",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "mar 15th, 2016",
   :block/created-at 1458000000000,
   :block/updated-at 1458000000000}
@@ -151,17 +276,32 @@
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
  {:block/name "mirko belliato",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
  {:block/name "now",
   :block/created-at 1645632540716,
   :block/updated-at 1645632540716}
+ {:block/name "omer san",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "paritosh r vasava",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "r. lima",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "r.l. pigford",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "saber yekani motlagh",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "shawn c. shadden",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
  {:block/name "silvia mongodi",
-  :block/created-at 1645802054466,
-  :block/updated-at 1645802054466}
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "tianshu liu",
   :block/created-at 1645637070935,
   :block/updated-at 1645637070935}
@@ -177,12 +317,39 @@
  {:block/name "waiting",
   :block/created-at 1645632540715,
   :block/updated-at 1645632540715}
+ {:block/name "yaser yekani motlagh",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "yos s. morsi",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "三月 2",
   :block/created-at 1645637070934,
   :block/updated-at 1645637070934}
+ {:block/name "引用量",
+  :block/created-at 1645940877871,
+  :block/updated-at 1645940877871}
+ {:block/name "想解决的问题",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "文献阅读幕布迁移",
+  :block/created-at 1645882033558,
+  :block/updated-at 1645884472038}
  {:block/name "文献阅读汇总",
   :block/created-at 1645783155284,
-  :block/updated-at 1645801898243}
+  :block/updated-at 1645940543704}
+ {:block/name "文章的主要内容",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "文章的主要内容：",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
  {:block/name "模板汇总",
-  :block/created-at 1645780280555, 
-  :block/updated-at 1645785765708}]
+  :block/created-at 1645780280555,
+  :block/updated-at 1645940486017}
+ {:block/name "解决方法及理论",
+  :block/created-at 1645940877872,
+  :block/updated-at 1645940877872}
+ {:block/name "进一步延申的可能，启示",
+  :block/created-at 1645940877871, 
+  :block/updated-at 1645940877871}]
